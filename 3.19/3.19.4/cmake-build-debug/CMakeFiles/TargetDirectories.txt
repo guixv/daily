@@ -1,0 +1,3 @@
+D:/desktop/try/cpp/3.19/3.19.4/cmake-build-debug/CMakeFiles/3_19_4.dir
+D:/desktop/try/cpp/3.19/3.19.4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/desktop/try/cpp/3.19/3.19.4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
