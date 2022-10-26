@@ -5,3 +5,4 @@
 *.includecache
 *.rsp
 *.check_cache
+*.internal
