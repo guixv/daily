@@ -2,3 +2,6 @@
 *.cmake
 *.exe
 *.make
+*.includecache
+*.rsp
+*.check_cache
